@@ -22,7 +22,7 @@ const HomePage = () => {
           </p>
           <div className="links">
             <a
-              href="https://crop-recommend-tb0f.onrender.com/"
+              href="https://top3crops.onrender.com"
               className="link-button"
               target="_blank"
               // rel="noopener noreferrer"
